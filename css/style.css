@@ -1,0 +1,12 @@
+#image{
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    display: block;
+    max-width: 250px;
+ 
+}
+
+#img-div{
+    text-align:center
+}
